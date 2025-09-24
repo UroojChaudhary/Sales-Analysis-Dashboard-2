@@ -1,6 +1,6 @@
 # 📊 Sales Analysis Dashboard
 
-![Dashboard Screenshot](./Screenshot.png)
+![Dashboard Screenshot] Sale Analysis Dashboard.mp4
 
 ## 🔎 Project Overview
 This **Sales Analysis Dashboard** was developed in **Power BI** to provide actionable insights into sales performance.  
